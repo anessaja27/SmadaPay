@@ -1,4 +1,4 @@
-# 💸 Smada Pay App
+# 💸 SmadaPay
 
 Smada Pay adalah aplikasi e-wallet buatan saya menggunakan Flutter. Aplikasi ini dibuat sebagai bagian dari latihan, pengembangan portofolio, dan pembelajaran saya dalam pengembangan aplikasi mobile.
 
