@@ -16,14 +16,6 @@ Smada Pay adalah aplikasi e-wallet buatan saya menggunakan Flutter. Aplikasi ini
 
 > (Tambahkan tangkapan layar di sini jika ada, atau bisa nanti menyusul)
 
-## 🛠️ Teknologi yang Digunakan
-
-- Flutter (SDK)
-- Dart
-- flutter_secure_storage
-- Google Sheets API (untuk penyimpanan data)
-- (Tambahkan plugin/library lain jika ada)
-
 ## 🧠 Tentang Pembuat
 
 **Andrasena Nugraha**  
