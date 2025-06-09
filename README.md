@@ -1,16 +1,40 @@
-# smada_pay_app3
+# 💸 Smada Pay App
 
-A new Flutter project.
+Smada Pay adalah aplikasi e-wallet buatan saya menggunakan Flutter. Aplikasi ini dibuat sebagai bagian dari latihan, pengembangan portofolio, dan pembelajaran saya dalam pengembangan aplikasi mobile.
 
-## Getting Started
+## 🚀 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🔐 Login dengan PIN
+- 👤 Halaman profil pengguna (foto, nama, email, nomor HP)
+- 💰 Top up saldo
+- 📤 Kirim saldo ke pengguna lain
+- 🏪 Pembayaran ke toko terdaftar
+- 📄 Riwayat transaksi lengkap dengan filter dan pencarian
+- ⚙️ Halaman pengaturan akun
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Tampilan Antarmuka
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> (Tambahkan tangkapan layar di sini jika ada, atau bisa nanti menyusul)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Teknologi yang Digunakan
+
+- Flutter (SDK)
+- Dart
+- flutter_secure_storage
+- Google Sheets API (untuk penyimpanan data)
+- (Tambahkan plugin/library lain jika ada)
+
+## 🧠 Tentang Pembuat
+
+**Andrasena Nugraha**  
+- 🏫 Lulusan SMAN 2 Probolinggo (2025)  
+- 📍 Probolinggo, Indonesia  
+- 📸 Aktif di dunia desain, fotografi, dan operator acara  
+- 💻 Tertarik dengan mobile development dan UI/UX design  
+
+## 📂 Cara Menjalankan Aplikasi
+
+1. Clone repositori ini
+   ```bash
+   git clone https://github.com/username/flutter-e-wallet.git
+   cd flutter-e-wallet
