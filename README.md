@@ -14,7 +14,11 @@ Smada Pay adalah aplikasi e-wallet buatan saya menggunakan Flutter. Aplikasi ini
 
 ## 📱 Tampilan Antarmuka
 
-> (Tambahkan tangkapan layar di sini jika ada, atau bisa nanti menyusul)
+Berikut adalah tampilan utama dari Smada Pay:
+
+![Tampilan Aplikasi](assets/images/ss_homepage.png)
+
+> Tangkapan layar halaman beranda Smada Pay – menampilkan saldo, menu utama, dan berita terkini di SMAN 2 Probolinggo.
 
 ## 🧠 Tentang Pembuat
 
